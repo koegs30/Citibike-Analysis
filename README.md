@@ -10,3 +10,4 @@ Stories:
 1) Customer Input Birth Year Issue
 2) Types of Rentals: Roundtrips and Trips Over 24 Hours
 
+![alt text](https://github.com/koegs30/Citibike-Analysis/Images/BirthYearGraph.png?raw=true)
