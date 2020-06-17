@@ -1,10 +1,11 @@
-# tableau-homework
+# Citi Bike Analysis
 
-Included here is the Jupyter file I used to pull data together from several CSVs.  In truth I pulled data similarly several times with a couple of different Jupyter Notebooks.  I ended up usin the file included in this respository of the stories that I could pull from the combined dataset.
+The objective for this project was to find two "phenomena" in the publicly available Citibike data (https://www.citibikenyc.com/system-data).
 
 My Tableau file can be found here: https://public.tableau.com/profile/katherine.sullivan#!/
 
-Please note I have two stories within the tableau file as well as several dashboards and charts.
+Please note I have two stories within the tableau file as well as several dashboards and charts.  One story addresses an anomaly with regards the the birth year of renters and the other a look at the type of trip (roundtrip vs end-to-end) and related conclusions.
+
 Stories:
 1) Customer Input Birth Year Issue
 2) Types of Rentals: Roundtrips and Trips Over 24 Hours
