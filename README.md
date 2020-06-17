@@ -8,7 +8,7 @@ Please note I have two stories within the tableau file as well as several dashbo
 
 Stories:
 1) Customer Input Birth Year Issue
-2) Types of Rentals: Roundtrips and Trips Over 24 Hours
-
 ![alt text](https://github.com/koegs30/Citibike-Analysis/blob/master/Images/BirthYearGraph.png)
-
+2) Types of Rentals: Roundtrips and Trips Over 24 Hours
+![alt_text](https://github.com/koegs30/Citibike-Analysis/blob/master/Images/DurationIncome.png)
+![alt_text](https://github.com/koegs30/Citibike-Analysis/blob/master/Images/RoundTrips.png)
